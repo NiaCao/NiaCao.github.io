@@ -1,0 +1,28 @@
+
+@font-face {
+    font-family: BonVoyage;
+    src: url("../fonts/bon-voyage-regular.otf");
+}
+@font-face {
+    font-family: BonVoyageThin;
+    src: url("../fonts/bon-voyage-thin.otf");
+}
+@font-face {
+    font-family: QwertyAbility;
+    src: url("../fonts/qwerty-ability.otf");
+}
+
+.v--modal-overlay {
+    background: rgba(0, 0, 0, 0.9) !important;
+}
+
+.bon_voyage{
+    font-family: BonVoyage, serif;
+}
+
+.bon_voyage_thin{
+    font-family: BonVoyageThin, serif;
+}
+.qwerty_ability{
+    font-family: QwertyAbility, serif;
+}
